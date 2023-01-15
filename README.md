@@ -1,16 +1,14 @@
-# flutter_local_trial
+# Flutter Localization
 
-A new Flutter project.
+On the second week of #FlutterWeek i have puvlished an article based on flutter localization.This is the codebase for that article.
 
-## Getting Started
+Article: https://medium.com/@akhilaand/flutter-localization-2565fac5d356
 
-This project is a starting point for a Flutter application.
+![week2](https://user-images.githubusercontent.com/61899657/212558691-091c763a-e899-4795-b41c-b9a4647e8523.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📝 Note
+The release build for Android (apk) is available on the Release tab.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Thank You ❤️‍🔥
+Show your support by sharing and starring the repo. ⭐️
